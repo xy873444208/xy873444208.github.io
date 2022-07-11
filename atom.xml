@@ -3,11 +3,11 @@
   <title>袁浩涌我是你爸爸</title>
   
   
-  <link href="http://wakuwaku.com/atom.xml" rel="self"/>
+  <link href="http://wakuwaku.icu/atom.xml" rel="self"/>
   
-  <link href="http://wakuwaku.com/"/>
-  <updated>2022-06-27T10:30:15.344Z</updated>
-  <id>http://wakuwaku.com/</id>
+  <link href="http://wakuwaku.icu/"/>
+  <updated>2022-07-11T04:10:42.175Z</updated>
+  <id>http://wakuwaku.icu/</id>
   
   <author>
     <name>xiao yu</name>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>title</title>
+    <link href="http://wakuwaku.icu/2022/07/11/title/"/>
+    <id>http://wakuwaku.icu/2022/07/11/title/</id>
+    <published>2022-07-11T04:10:42.000Z</published>
+    <updated>2022-07-11T04:10:42.175Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://wakuwaku.com/2022/06/27/hello-world/"/>
-    <id>http://wakuwaku.com/2022/06/27/hello-world/</id>
+    <link href="http://wakuwaku.icu/2022/06/27/hello-world/"/>
+    <id>http://wakuwaku.icu/2022/06/27/hello-world/</id>
     <published>2022-06-27T10:30:15.344Z</published>
     <updated>2022-06-27T10:30:15.344Z</updated>
     
